@@ -8,7 +8,7 @@ namespace CoreHelloworld
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Its created in .net core template");
-            Console.ReadLine();
+           // Console.ReadLine();
         }
     }
 }
